@@ -15,5 +15,4 @@ public class Notes {
     @Id
     private String id;
     private String recipeNotes;
-
 }
